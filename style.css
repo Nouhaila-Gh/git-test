@@ -1,0 +1,13 @@
+body {
+       background-color: rgb(15, 196, 224);
+       margin: 0 auto;
+       max-width: 800px;
+
+}
+h1{
+    font-size: 50px;
+    color: azure;
+}
+p{
+    font-size: 22px;
+}
